@@ -6,6 +6,7 @@ for(let atual = 0; atual < livros.length; atual++){
 
   let livroAtual = livros[atual];
   console.log('Livro atual', livros[atual])
+  
   let livrosMenorPreco = livros[menor];
   console.log('Livro menor preço', livros[menor])
 
