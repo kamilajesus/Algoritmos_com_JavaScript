@@ -1,4 +1,4 @@
-const livros = require('./listaLivros');
+const livros = require('./Algoritmos-1/listaLivros');
 
 function menorValor(arrProdutos, posicaoInicial) {
   let maisBarato = posicaoInicial;

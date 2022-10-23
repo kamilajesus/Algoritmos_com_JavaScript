@@ -1,4 +1,4 @@
-const livros = require('./listaLivros')
+const livros = require('./Algoritmos-1/listaLivros.js')
 
 function insertionSort(lista) {
   for (let atual = 0; atual < lista.length; atual++) {
