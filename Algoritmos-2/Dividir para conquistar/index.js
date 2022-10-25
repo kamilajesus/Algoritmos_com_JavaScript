@@ -1,4 +1,4 @@
-const { editoraGalho, editoraFolha } =  require('./Algoritmos-2/arrays');
+const { editoraGalho, editoraFolha } =  require('./Algoritmos-2/Dividir para conquistar/arrays.js');
 
 function juntaListas(lista1, lista2) {
   let listaFinal = [];
